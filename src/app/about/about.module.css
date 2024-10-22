@@ -1,0 +1,13 @@
+.container{
+    color: lightgreen;
+    background-color: whitesmoke;
+}
+
+.header{
+    color: rgb(105, 120, 255);
+    background-color: gold;
+}
+
+.body{
+    color: black;
+}
